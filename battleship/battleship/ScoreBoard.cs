@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace battleship
 {
-    class ScoreBoard
+    public class ScoreBoard
     {
+        //member variables(HAS A)
+
+
+        //construstor
+        public ScoreBoard()
+        {
+
+        }
+
+        //member methods(HAS TO)
     }
 }

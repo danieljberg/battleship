@@ -6,7 +6,21 @@ using System.Threading.Tasks;
 
 namespace battleship
 {
-    class Ship
+    public abstract class Ship
     {
+        //member variables(HAS A)
+        public string name;
+        public int size;
+        public int[,] position;
+        public int hitCount;
+        public bool isDestroyed;
+
+
+        //construstor
+
+
+        //member methods(HAS TO)
+        
+
     }
 }

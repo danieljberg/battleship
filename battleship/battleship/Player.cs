@@ -6,7 +6,23 @@ using System.Threading.Tasks;
 
 namespace battleship
 {
-    class Player
+    public class Player
     {
+        //member variables(HAS A)
+        public string name;
+        public GameBoard gameBoard;
+        public ScoreBoard scoreBoard;
+
+        //construstor
+        public Player()
+        {
+
+        }
+
+        //member methods(HAS TO)
+        public void SetPosition()
+        {
+
+        }
     }
 }

@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace battleship
 {
-    class Submarine
+    public class Submarine
     {
+        //member variables(HAS A)
+
+
+        //construstor
+        public Submarine()
+        {
+
+        }
+
+        //member methods(HAS TO)
     }
 }

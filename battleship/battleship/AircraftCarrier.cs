@@ -6,7 +6,17 @@ using System.Threading.Tasks;
 
 namespace battleship
 {
-    class AircraftCarrier
+    public class AircraftCarrier
     {
+        //member variables(HAS A)
+
+
+        //construstor
+        public AircraftCarrier()
+        {
+
+        }
+
+        //member methods(HAS TO)
     }
 }
